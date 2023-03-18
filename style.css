@@ -1,4 +1,11 @@
 .heading{
     text-align: center;
     color: hsla(0, 100%, 25%, 0.5);
+    font-family: 'Times New Roman', Times, serif;
+}
+.uolist{
+font-family: 'Times New Roman', Times, serif;
+}
+.body{
+    background-color: royalblue;
 }
